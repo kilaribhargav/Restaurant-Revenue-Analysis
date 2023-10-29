@@ -1,0 +1,69 @@
+Date,MenuItem,Category,Price,Quantity,Sales,Rating,Feedback,CustomerAge,CustomerGender,ReservationTime,WaitStaff,PaymentMethod,Weather,SpecialEvent,TableSize
+01-09-2023,Burger,Main Course,10.99,50,549,4.2,Good,35,Male,18:30,John,Credit Card,Sunny,None,4
+02-09-2023,Pasta,Main Course,12.99,45,500,4.5,Excellent,28,Female,19:00,Sarah,Cash,Cloudy,None,2
+03-09-2023,Salad,Appetizer,6.99,30,209,4,Good,42,Male,18:45,Michael,Debit Card,Rainy,None,3
+04-09-2023,Steak,Main Course,18.99,25,474,4.8,Excellent,48,Male,20:15,Emily,Credit Card,Sunny,None,2
+05-09-2023,Pizza,Main Course,11.99,60,719,4.4,Good,22,Female,19:30,David,Cash,Partly Cloudy,None,5
+06-09-2023,Soup,Appetizer,5.99,40,239,3.9,Fair,32,Male,18:15,Lisa,Debit Card,Rainy,None,4
+07-09-2023,Shrimp Scampi,Main Course,14.99,35,524,4.6,Excellent,40,Female,19:45,Robert,Credit Card,Partly Cloudy,None,2
+08-09-2023,Cheese Platter,Appetizer,8.99,20,179,4.1,Good,55,Male,18:30,Karen,Debit Card,Sunny,None,3
+09-09-2023,Alfredo,Main Course,13.99,55,769,4.3,Good,29,Female,20:00,James,Credit Card,Sunny,Family Gathering,5
+10-09-2023,Cheesecake,Dessert,7.99,28,223,4.7,Excellent,45,Male,19:15,Susan,Cash,Partly Cloudy,None,2
+11-09-2023,Burrito,Main Course,9.99,48,479,3.8,Fair,31,Male,18:45,Mary,Credit Card,Rainy,None,4
+12-09-2023,Bruschetta,Appetizer,6.49,22,142,4.2,Good,37,Female,18:30,John,Debit Card,Cloudy,Anniversary,3
+13-09-2023,Fish Tacos,Main Course,12.49,37,461,4.5,Excellent,26,Male,19:30,Sarah,Credit Card,Partly Cloudy,None,5
+14-09-2023,Sorbet,Dessert,5.49,18,98,4,Good,50,Male,18:15,Michael,Cash,Sunny,None,2
+15-09-2023,Wings,Appetizer,9.99,42,419,4.4,Good,33,Female,19:00,Emily,Debit Card,Cloudy,None,4
+16-09-2023,Ribeye Steak,Main Course,20.99,23,483,4.8,Excellent,44,Male,20:15,David,Credit Card,Rainy,None,3
+17-09-2023,Tiramisu,Dessert,7.49,16,119,4.6,Good,29,Female,19:45,Lisa,Debit Card,Partly Cloudy,None,2
+18-09-2023,Crab Cakes,Appetizer,11.49,25,287,4.3,Good,39,Male,18:30,Robert,Credit Card,Sunny,Family Gathering,3
+19-09-2023,Sushi Rolls,Main Course,16.99,30,504,4.7,Excellent,28,Male,19:15,Karen,Debit Card,Partly Cloudy,None,4
+20-09-2023,Chocolate Cake,Dessert,6.99,14,97,4.2,Good,47,Female,18:45,James,Credit Card,Sunny,Anniversary,2
+21-09-2023,Lasagna,Main Course,14.99,32,479,4.5,Excellent,34,Female,19:30,John,Credit Card,Partly Cloudy,Anniversary,4
+22-09-2023,Calamari,Appetizer,9.49,28,265,4.3,Good,29,Male,18:45,Sarah,Debit Card,Cloudy,Family Gathering,3
+23-09-2023,Caesar,Main Course,12.99,38,493,4.6,Excellent,42,Male,19:15,Michael,Credit Card,Rainy,None,2
+24-09-2023,Key Lime Pie,Dessert,6.49,19,123,4.2,Good,47,Female,18:30,Emily,Cash,Partly Cloudy,Anniversary,2
+25-09-2023,Tofu Stir-Fry,Main Course,11.99,33,395,4,Good,26,Male,19:45,David,Credit Card,Sunny,None,4
+26-09-2023,Onion Rings,Appetizer,5.99,24,143,3.9,Fair,31,Female,18:15,Lisa,Debit Card,Cloudy,None,3
+27-09-2023,Filet Mignon,Main Course,22.99,18,413,4.8,Excellent,39,Male,20:00,Robert,Credit Card,Sunny,Family Gathering,2
+28-09-2023,Creme Brulee,Dessert,7.99,15,119,4.4,Good,30,Male,18:45,Karen,Cash,Rainy,None,2
+29-09-2023,Mozzarella Sticks,Appetizer,8.49,22,186,4.1,Good,55,Female,19:30,James,Debit Card,Partly Cloudy,Corporate Event,5
+21-09-2023,Lasagna,Main Course,14.99,32,479,4.5,Excellent,34,Female,19:30,John,Credit Card,Partly Cloudy,Anniversary,4
+22-09-2023,Calamari,Appetizer,9.49,28,265,4.3,Good,29,Male,18:45,Sarah,Debit Card,Cloudy,Family Gathering,3
+23-09-2023,Caesar,Main Course,12.99,38,493,4.6,Excellent,42,Male,19:15,Michael,Credit Card,Rainy,None,2
+24-09-2023,Key Lime Pie,Dessert,6.49,19,123,4.2,Good,47,Female,18:30,Emily,Cash,Partly Cloudy,None,2
+25-09-2023,Tofu Stir-Fry,Main Course,11.99,33,395,4,Good,26,Male,19:45,David,Credit Card,Sunny,Family Gathering,4
+05-01-2023,Onion Rings,Appetizer,5.99,24,143,3.9,Fair,31,Female,18:15,Lisa,Debit Card,Cloudy,None,3
+10-01-2023,Filet Mignon,Main Course,22.99,18,413,4.8,Excellent,39,Female,20:00,Robert,Credit Card,Sunny,None,2
+12-01-2023,Creme Brulee,Dessert,7.99,15,119,4.4,Good,30,Male,18:45,Karen,Cash,Rainy,Family Gathering,2
+15-01-2023,Mozzarella Sticks,Appetizer,8.49,22,186.78,4.1,Good,55,Female,19:30,James,Debit Card,Partly Cloudy,Corporate Event,5
+20-01-2023,Tacos,Main Course,13.49,29,391.21,4.7,Excellent,28,Female,19:00,Susan,Credit Card,Sunny,None,3
+22-01-2023,Grilled Salmon,Main Course,16.99,27,458.73,4.4,Good,35,Male,18:30,John,Debit Card,Sunny,None,3
+25-01-2023,Spinach Dip,Appetizer,7.99,19,151.81,4,Good,31,Female,19:15,Sarah,Cash,Cloudy,Family Gathering,2
+30-01-2023,Pork Chops,Main Course,17.49,24,419.76,4.6,Excellent,40,Male,18:45,Michael,Credit Card,Rainy,Corporate Event,4
+02-02-2023,Tres Leches Cake,Dessert,6.99,18,125.82,4.2,Good,29,Male,20:00,Emily,Debit Card,Sunny,None,2
+05-02-2023,Quesadilla,Main Course,11.49,35,401.15,3.9,Fair,32,Female,18:15,David,Credit Card,Rainy,Family Gathering,5
+10-02-2023,Artichoke Dip,Appetizer,8.49,22,186.78,4.1,Good,45,Male,19:30,Lisa,Cash,Partly Cloudy,None,3
+15-02-2023,Lobster Tail,Main Course,24.99,16,399.84,4.5,Excellent,28,Female,19:45,Robert,Credit Card,Sunny,None,2
+18-02-2023,Chocolate Fondue,Dessert,9.99,14,139.86,4.7,Excellent,49,Female,18:30,Karen,Debit Card,Partly Cloudy,Family Gathering,2
+20-02-2023,Stuffed Mushrooms,Appetizer,10.49,20,209.8,4.3,Good,37,Male,19:00,James,Credit Card,Sunny,None,3
+22-02-2023,Sushi Sashimi Combo,Main Course,19.99,28,559.72,4.8,Excellent,33,Female,18:45,Susan,Cash,Partly Cloudy,None,4
+25-02-2023,Stroganoff,Main Course,15.99,30,479.7,4.4,Good,35,Male,19:15,John,Debit Card,Sunny,None,4
+10-01-2023,Guacamole,Appetizer,6.99,25,174.75,4.1,Good,28,Female,18:30,Sarah,Cash,Cloudy,None,3
+12-01-2023,Tenders,Main Course,12.49,32,399.68,4.3,Good,42,Female,18:45,Michael,Credit Card,Rainy,Family Gathering,5
+15-01-2023,Apple Pie,Dessert,7.99,20,159.8,4.2,Good,49,Male,19:30,Emily,Debit Card,Sunny,None,2
+20-01-2023,Shrimp Cocktail,Appetizer,9.99,18,179.82,4.6,Excellent,33,Female,20:00,David,Credit Card,Partly Cloudy,None,2
+22-01-2023,Steak Fajitas,Main Course,16.99,28,475.72,4.5,Excellent,31,Male,18:15,Lisa,Cash,Rainy,None,4
+25-01-2023,New York Cheesecake,Dessert,8.99,16,143.84,4,Good,46,Male,19:45,Robert,Debit Card,Sunny,None,2
+30-01-2023,Onion Soup,Appetizer,7.49,23,172.27,4.4,Good,29,Male,18:30,Karen,Debit Card,Cloudy,Corporate Event,3
+02-02-2023,Lobster Bisque,Appetizer,11.99,14,167.86,4.3,Good,37,Female,19:15,James,Credit Card,Sunny,None,2
+05-02-2023,Tamales,Main Course,14.99,22,329.78,4.6,Excellent,35,Male,19:00,Susan,Cash,Partly Cloudy,None,1
+10-02-2023,Bruschetta,Appetizer,7.99,19,151.81,4.2,Good,44,Male,19:30,Sarah,Debit Card,Partly Cloudy,Family Gathering,2
+15-02-2023,Tacos,Main Course,13.49,26,350.74,4.3,Good,39,Male,18:15,Michael,Credit Card,Rainy,None,4
+18-02-2023,Chocolate Fondue,Dessert,9.99,18,179.82,4.6,Excellent,27,Female,19:45,Emily,Credit Card,Sunny,Family Gathering,2
+20-02-2023,Sushi Sashimi Combo,Main Course,21.99,24,527.76,4.5,Excellent,35,Male,20:00,David,Debit Card,Cloudy,None,3
+22-02-2023,Stew,Main Course,14.99,32,479.68,4.4,Good,36,Female,18:45,Lisa,Cash,Partly Cloudy,None,4
+25-02-2023,Chocolate Cake,Dessert,8.99,20,179.8,4.1,Good,42,Male,19:30,Robert,Credit Card,Sunny,Family Gathering,2
+07-11-2023,Spinach Dip,Appetizer,6.99,23,160.77,4.3,Good,29,Female,19:15,Karen,Debit Card,Partly Cloudy,None,3
+08-11-2023,Quesadilla,Main Course,12.49,30,374.7,4.2,Good,32,Female,18:30,James,Credit Card,Rainy,None,5
+09-11-2023,Apple Pie,Dessert,7.99,17,135.83,4,Good,49,Male,19:45,Susan,Debit Card,Partly Cloudy,Family Gathering,2
